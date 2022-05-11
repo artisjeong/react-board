@@ -1,0 +1,115 @@
+.log_tit {
+    position: absolute;
+    width: 283px;
+    height: 75px;
+    left: 40px;
+    top: 19px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 48px;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.tit_id {
+    position: absolute;
+    width: 126px;
+    height: 38px;
+    left: 38px;
+    top: 152px;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    align-items: center;
+
+    color: #000000;
+}
+
+.inp_id {
+    position: absolute;
+    width: 280px;
+    height: 60px;
+    left: 40px;
+    top: 184px;
+
+    background: #ffffff;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.tit_pw {
+    position: absolute;
+    width: 126px;
+    height: 38px;
+    left: 38px;
+    top: 262px;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    align-items: center;
+
+    color: #000000;
+}
+
+.inp_pw {
+    position: absolute;
+    width: 280px;
+    height: 60px;
+    left: 40px;
+    top: 294px;
+
+    background: #ffffff;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+.chk_save {
+    position: absolute;
+    width: 20px;
+    height: 21px;
+    left: 238px;
+    top: 361px;
+
+    background: #fffefe;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+
+.tit_chk_id {
+    position: absolute;
+    width: 62px;
+    height: 18px;
+    left: 258px;
+    top: 364px;
+
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    align-items: center;
+    text-align: right;
+
+    color: #000000;
+}
+
+.btn_login {
+    position: absolute;
+    width: 164px;
+    height: 45px;
+    left: 98px;
+    top: 415px;
+
+    background: #d0d2d0;
+}
